@@ -2,6 +2,7 @@
   "cs": {
     "csf111": {
       "Handout": {
+        "2025-26 Handout": "https://docs.google.com/document/d/1Ui0x-IzOjMewxQEJEiBDeJcq_8_k_TL1/view",
         "2024-25 Handout": "https://drive.google.com/file/d/1-xjq3jDHieO6EQs6DYEtD69ybxIVvtgz/view",
         "2023-24 Handout 1": "https://drive.google.com/file/d/1pxViKLltR1oH6NTOPdaUfdpPHHOJqV5z/view",
         "2023-24 Handout 2": "https://drive.google.com/file/d/1Dm8ryAYZDDq7ih3Kqz6dgXMpTVLCoHia/view"
@@ -10,27 +11,34 @@
         "Problem Solving in C": "https://drive.google.com/file/d/1t4uY2zLQR4gxQ3p8M9Mj2Ok_T585MmWG/view"
       },
       "Slides": {
+        "2025-26": "https://drive.google.com/drive/folders/1bRo0zgGoL_Y4GQg4QQF5Io9ix88oERAl",
         "2024-25": "https://drive.google.com/drive/folders/1ZVAJA9epv0mEoih1yVCyrDkHmbE3K2au",
         "2023-24": "https://drive.google.com/drive/folders/1wyKzXGoHWDaJSrBpw7D3CMvGVK00K3Uq",
         "2022-23": "https://drive.google.com/drive/folders/1By5zKSI7j8dCvHblhYaOrvjx2tCit6iB"
       },
       "Midsemester Exam": {
+        "2025-26 QP": "https://drive.google.com/file/d/1RQi9TWcE-D79FCwwiag_zZUs7thUWZjR/view",
+        "2025-26 Soln": "https://drive.google.com/file/d/1hyK3JIDZae5QQVeNu-uPpF2YeEXKtPVC/view",
         "2024-25": "https://drive.google.com/drive/folders/1FSSpX6FonGoWCYLaIgQ2M2CZdOmtpCbH",
         "2023-24": "https://drive.google.com/file/d/1LvSLpTyUutn6zWw9mVvCK-gfuo6Dhs7L/view",
         "2022-23": "https://drive.google.com/file/d/1cf05J2bsX71eOG70GKBpkBTN-VAdMxEX/view",
         "2021-22": "https://drive.google.com/file/d/1IDY4Vs6_Af7_F3PVoC5AvyYXb_KI11ah/view"
       },
       "Comprehensive Exam": {
+        "2025-26 QP": "https://drive.google.com/file/d/1AXFy9YD_vFOkp17kFf8C4f-nc7LWcuQK/view",
+        "2025-26 Soln": "https://drive.google.com/file/d/1b0ut6YW3M_pWl6It1mneK_6CXPQJ2XkV/view",
         "2023-24": "https://drive.google.com/file/d/1Wq-ueALrSh1eW-9DV9q-v5BYE25T9JN3/view",
         "2022-23": "https://drive.google.com/file/d/1Q0b1QB9Qvrm2g7ZXAbLg002xGjClArEj/view",
         "2021-22": "https://drive.google.com/file/d/1L8XMNEU1P99Mtzh5kIlZit0DBfo9mgvr/view"
       },
       "In Class Quizzes": {
+        "2025-26": "https://drive.google.com/drive/folders/1AiOMdudgIX0IYgYOXCCsTVuDXldmfzDM",
         "2024-25 All profs": "https://drive.google.com/drive/folders/1jVjliVXsnwPtiYK4snSIsdkIBS5e8ZnL",
         "2023-24 Arnab Paul": "https://drive.google.com/drive/folders/1d0RuyXrhkXplphGAgzE2zCDF3TsHm_Mv",
         "2022-23 All profs": "https://drive.google.com/drive/u/1/folders/1Mqwle1hu3kbrvF3AOlR33lZV78XswxqL"
       },
       "Labs": {
+        "2025-26": "https://drive.google.com/drive/folders/1gp7JwRMBlIz6ouogRFXG0y5FoQiACmO6",
         "2024-25": "https://drive.google.com/drive/folders/1g-SdZW0ePfotUpueeFyj6axnp7RLOE1y",
         "2023-24": "https://drive.google.com/drive/folders/1-VLHhd7hPeXdQWAwmbM-Tllvo0kn_KxT",
         "2022-23": "https://drive.google.com/drive/folders/1-1lSG_Mkcm38lut-gghxogCbuRnSPR-X"
@@ -43,6 +51,7 @@
         "2022-23 Anup and Hemant Sir": "https://drive.google.com/drive/folders/1aTi8YID_SaBDJ50D3C78BKxHm2api-90"
       },
       "Practice Problems": {
+        "2025-26": "https://docs.google.com/document/d/1G5v8pWO9UXLmIYiV4AyaJj41Ja79na_H/view",
         "2024-25": "https://drive.google.com/drive/folders/1HQ1vWQ6mLa3HhLj1qjIUqKg15u9Rs2SX",
         "2023-24": "https://docs.google.com/document/d/18qavDA7gKLHS2oHCgYJS10OJAmK93LLx/edit?ouid=102544954867664250470&rtpof=true&sd=true",
         "2022-23": "https://drive.google.com/drive/folders/19_je9WYA4uwhUkQxUHJVLRJ63y-itYUe"
@@ -51,6 +60,7 @@
         "2023-24 By Darelife": "https://github.com/darelife/cs-f111"
       },
       "Drive": {
+        "2025-26": "https://drive.google.com/drive/folders/1aXWFdULesJxVjz8ertrebxKyM2L5Mbax",
         "2024-25": "https://drive.google.com/drive/folders/1BoL8aQ9Ne72jRwBupBQ2-guAD4VWYjXz",
         "2023-24 By Jashan Gupta": "https://drive.google.com/drive/folders/1MiTbSEEMjg8e3ZzebdGFXDj2EqJEzzIt",
         "2023-24 By Atharva Pandit": "https://drive.google.com/drive/folders/1p4Ngb6AUTypkL8xOPvSk7vIH55Pi1Woz",
