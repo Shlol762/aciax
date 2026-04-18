@@ -522,6 +522,9 @@
       "Drive Links": {
         "2024-25 Sem 2": "https://drive.google.com/drive/folders/1tZIuF17eIzXv8hkxbMmiDiB1Pg2aHwg3",
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/1DbM3UUnGSQhMmX091JfTB3GIPwWaGOMi"
+      },
+      "BITS F103 replaced this course in 2025": {
+        "BITS F103 - Engineering Design and Prototyping": "./bitsf103"
       }
     },
     "bitsf111": {
@@ -614,6 +617,32 @@
       },
       "Drive Links": {
         "2024-25": "https://drive.google.com/drive/folders/1PvBc-blwmEb-z_YlTSjKfQDBpt5IKLWc"
+      }
+    },
+    "bitsf103": {
+      "Handouts": {
+        "2025-26 Sem 1": "https://drive.google.com/file/d/1BiQtTIJzQHzTQdU-DUR0WM4BlWXkqQjK/view"
+      },
+      "Workshop": {
+        "2025-26 Sem 1 Manual": "https://drive.google.com/file/d/1GXwrZ_WkAkn3G5NRw6HMHhhUyWfpyt1n/view"
+      },
+      "Books": {
+        "TextBook": "https://drive.google.com/file/d/1IPIU6EOvGJjiaRHF0OwzAU0EecSNX4zG/view"
+      },
+      "Solutions": {
+        "Booklet": "https://drive.google.com/file/d/1EfVf8S9_cwbU9CnOw_ciJ1fseowo0ZQk/view",
+        "Solutions - Aarsh Bhavsar": "https://drive.google.com/drive/folders/1jLk3eCF0N3m_BKQAbb5rIvmW7zDuswQU",
+        "Solutions - Krish Garg": "https://drive.google.com/drive/folders/1dZvDv_H9MRmP3Ryjpa5HdhAhxTdgTOpw"
+      },
+      "Comprehensive Exam": {
+        "2025-26 Sem 1": "https://drive.google.com/drive/folders/1aDDewYxN5IyJV50sHXwsPEIvCH0sKtFX"
+      },
+      "Miscellaneous": {
+        "Video Links": "https://drive.google.com/file/d/1xV8JA3N3L_yCSyGkOstlKjQn0qckoCpe/view",
+        "Study Material": "https://drive.google.com/drive/folders/12UQyaULkAm-fPPWb2J8SwHZor1iVZUs8"
+      },
+      "Drive Links": {
+        "2025-26 Sem 1": "https://drive.google.com/drive/folders/1egCgrHWNp5IYvaPd23DbHFIwN5H0ByI_"
       }
     }
   },
@@ -928,6 +957,9 @@
       "Drive Links": {
         "2024-25 Sem 2": "https://drive.google.com/drive/folders/1U_F1xaeP5eQyDndvUDxsiQy6ebniXnBW",
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/1X_femhmEewGtnx1BSXwu_-pwUWbgXwzp"
+      },
+      "BITS F103 replaced this course in 2025": {
+        "BITS F103 - Engineering Design and Prototyping": "./bitsf103"
       }
     }
   }
