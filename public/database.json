@@ -959,7 +959,7 @@
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/1X_femhmEewGtnx1BSXwu_-pwUWbgXwzp"
       },
       "BITS F103 replaced this course in 2025": {
-        "BITS F103 - Engineering Design and Prototyping": "./bitsf103"
+        "BITS F103 - Engineering Design and Prototyping": "../bits/bitsf103"
       }
     }
   }
