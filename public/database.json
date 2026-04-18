@@ -372,7 +372,6 @@
     },
     "mathf111": {
       "Handouts": {
-        "2025-26": "https://drive.google.com/file/d/1Xr5EdhmU25MAjky_3oFEXkY-QdKj2jb7/view",
         "2024-25": "https://drive.google.com/file/d/1tunDXVkyt_jQ4ezUqFgCP2bwydjhDWUr/view"
       },
       "Books": {
@@ -381,35 +380,31 @@
         "Thomas Calc 14th Ed": "https://drive.google.com/file/d/1pJ8538Nzs8YrNtPdSBs1U3ELNiMXl93I/"
       },
       "Tutorials": {
-        "2025-26": "https://drive.google.com/drive/folders/1NzpoxXtOV-iYK-imONfFWyVadWbMUH3a",
         "2024-25": "https://drive.google.com/drive/folders/1yLbJOlSJE_7xliKs-I_2uF2DxmTDIHaf"
       },
       "Slides": {
-        "2025-26": "https://drive.google.com/drive/folders/1I4CiSGp0uIeY6zd1LPwqw8PQjRit29Ry",
         "2024-25": "https://drive.google.com/drive/folders/1YJ7664Th7c06nZMLGbzwn7l2npBBI8EJ"
       },
       "Midsemester Exam": {
-        "2025-26 Eval+Soln": "https://drive.google.com/file/d/134rVNNZ5MzmZXjR9Gh17qRJY6P9Hs9Lk/view",
         "2024-25 Eval": "https://drive.google.com/file/d/1PsUuci7ChQ3s9iBVY78zNvxqpPTZKhDl/view",
         "2024-25 Solution": "https://drive.google.com/file/d/1MJNC37zhqc9g-8i5Y5CthJZIWsvnW5dS/view"
       },
       "Comprehensive Exam": {
-        "2025-26 Eval+Soln": "https://drive.google.com/file/d/1O-LFBl9ohgd0-mWmgKqBiv2BI4bBrdCr/view",
         "2024-25 PART A": "https://drive.google.com/file/d/1SXjy6UHLFeZZ3untjI4ebrMuzm13BsJt/view",
         "2024-25 PART B": "https://drive.google.com/file/d/1fCu0idwdDyHYdcsnc3nrd17iYgT47BIj/view",
         "2024-25 PART B Solution": "https://drive.google.com/file/d/1n9FsmZcL8jdL-Pgnkn1mUqIQJOTs81pH/view"
       },
       "Quiz 1": {
-        "2025-26": "https://drive.google.com/file/d/1cRs5ZFZyD6-1tGdGBQGpWjrKxTKyPvC0/view",
         "2024-25": "https://drive.google.com/file/d/1qBvPZS8C6J5ZlWaVa3BA3aUHa0c0KMQD/view"
       },
       "Quiz 2": {
-        "2025-26": "https://drive.google.com/file/d/1gF2zSjeMRpqjUqsRgReQjyglkw_zK2pZ/view",
         "2024-25": "https://drive.google.com/file/d/1-uSns_YWiP6oeApW61ixQx5vvv3jEboB/view"
       },
       "Drive Links": {
-        "2025-26": "https://drive.google.com/drive/folders/1-YsqpT9A6zW5h1uMYidiYxaUc23y5Thj",
         "2024-25": "https://drive.google.com/drive/folders/1pbjrVQX5ce4UQcqUgyhAj6szYKoIMobf"
+      },
+      "Math F101 replaced this course in 2025": {
+        "Math F101 - Multivariable Calculus": "./mathf101"
       }
     },
     "mathf101": {
