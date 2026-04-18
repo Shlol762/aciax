@@ -809,6 +809,9 @@
       "Drive Links": {
         "2024-25 Sem 2": "https://drive.google.com/drive/folders/1rLgHYdrbYS-GFtl2SvwWsFZNq9G3ITWv",
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/17V5ZGhm9NDqi1Fbr7sOxbBbanyTXdrbY"
+      },
+      "Phy F101 replaced this course in 2025": {
+        "Phy F101 - Oscillations and Waves": "./phyf101"
       }
     },
     "phyf111": {
@@ -859,6 +862,45 @@
       "Drive Links": {
         "2024-25 Sem 2": "https://drive.google.com/drive/folders/1K-SBPFVICsFriM0mazJUjPIaWG7VlchJ",
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/1woevf9_K0xPAbC9Ox9mnUgnMa-LtGZdK"
+      },
+      "Phy F101 replaced this course in 2025": {
+        "Phy F101 - Oscillations and Waves": "./phyf101"
+      }
+    },
+    "phyf101": {
+      "Handouts": {
+        "2025-26 Sem 1": "https://drive.google.com/file/d/1JneQfrbXaCUjHq8LlFBuz0q_uMb1qL8h/view",
+        "2025-26 Sem 1 Lab": "https://drive.google.com/file/d/1kbP0hSgLHaZhcOwLANLtzUsU-Ck0IOqx/view"
+      },
+      "Books": {
+        "AP French": "https://drive.google.com/file/d/1-TMpw2OuX5V316tUaK2HeR2lk3KecBZt/view"
+      },
+      "Tutorials": {
+        "2025-26 Sem 1": "https://drive.google.com/drive/folders/1KoCOLXMUjBOKyNdOzbY_Db0632puPoI5"
+      },
+      "Slides": {
+        "2025-26 Sem 1": "https://drive.google.com/drive/folders/1_VV_ReeGSqkJfUB0cMi4hLJQGSz_oPBw"
+      },
+      "Midsemester Exam": {
+        "2025-26 Sem 1 QP": "https://drive.google.com/file/d/1OU9IcHtljl1XSDxS5ZUEpRhUARAaoNpy/view",
+        "2025-26 Sem 1 Soln": "https://drive.google.com/file/d/1CJZ0VpSsMp1TTnL2h0JbQkr2IWNUkFEJ/view"
+      },
+      "Comprehensive Exam": {
+        "2025-26 Sem 1 Part A": "https://drive.google.com/file/d/1s3Nv3de3ImK3vBB3rqat7-DfPsXomg5M/view",
+        "2025-26 Sem 1 Part B QP": "https://drive.google.com/file/d/1xD9L7nVAVh75zx6HnZy6oJktz5cTIIQf/view",
+        "2025-26 Sem 1 Part B Solution": "https://drive.google.com/file/d/1mZU3H3vKAnW9Qn7QICTd1XjlN3GH7cea/view"
+      },
+      "Quiz 1": {
+        "2025-26 Sem 1": "https://drive.google.com/file/d/1Jx0CLIUjNscUMOqRHd5eEOJO7fP1Jwa8/view"
+      },
+      "Quiz 2": {
+        "2025-26 Sem 1": "https://drive.google.com/file/d/1BEugv41Aqt9O5QKvtNxh9KN8x2Fc0Xe8/view"
+      },
+      "Quiz 3": {
+        "2025-26 Sem 1": "https://drive.google.com/file/d/1SYTbCaS5qkcW_voGP78m6yBQVvGSiWNx/view"
+      },
+      "Drive Links": {
+        "2025-26 Sem 1": "https://drive.google.com/drive/folders/1ovk9CJz6q8Ja9jh3mNlE4_g_thDU5QEu"
       }
     }
   },
