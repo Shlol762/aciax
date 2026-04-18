@@ -639,6 +639,9 @@
       "Drive Links": {
         "2024-25 Sem 2": "https://drive.google.com/drive/folders/1JaH-i6yD0lm1EpbWBVadO4yt8j9njhV_",
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/1qPo8ENEt1epaJOMG0a636W9UdDWNqWbf"
+      },
+      "Bio F101 replaced this course in 2025": {
+        "Bio F101 - Intro to Biological Sciences": "./biof101"
       }
     },
     "biof111": {
@@ -670,6 +673,37 @@
       },
       "Drive Links": {
         "2024-25": "https://drive.google.com/drive/folders/141rqPNCqfFFHB4X5HMT8Bll6t-kUct09"
+      },
+      "Bio F101 replaced this course in 2025": {
+        "Bio F101 - Intro to Biological Sciences": "./biof101"
+      }
+    },
+    "biof101": {
+      "Handouts": {
+        "2025-26": "https://drive.google.com/file/d/1tS_lumqJYKFNg-64DIYiZeHsE2QWf6qn/view"
+      },
+      "Books": {
+        "Campbell": "https://drive.google.com/file/d/1Z9TCJklVH-WWzKeqVz09h_q93dVgqQBJ/view",
+        "Enger Ross": "https://drive.google.com/file/d/1X0kUwkRmyTN_gNFAwaOUhWtkRRkuBqSI/view",
+        "Question Bank": "https://drive.google.com/file/d/1sI_QYPsCQoNtrMTgoUJo0nNWTEnDWsAV/view"
+      },
+      "Slides": {
+        "2025-26": "https://drive.google.com/drive/folders/16-czw479QijaEFzRpg4TzE38urNeGqpH"
+      },
+      "Comprehensive Exam": {
+        "2025-26 OB+CB with Soln": "https://drive.google.com/file/d/1vB_n3c2CXTeEv0rKC_0zaHts_IdKORC1/view"
+      },
+      "Quiz 1": {
+        "2025-26": "https://drive.google.com/file/d/1Fk0OH-Ge-Uc3FQNKxNDo2A8WXfZkXkoA/view"
+      },
+      "Quiz 2": {
+        "2025-26": "https://drive.google.com/file/d/1-b2kmX5gOY2crACqpPiN4QvQX1VPCDNV/view"
+      },
+      "Quiz 3": {
+        "2025-26": "https://drive.google.com/file/d/1-l-SWsr9egrK6TbwszY4Q8MUnV7h_Xvn/view"
+      },
+      "Drive Links": {
+        "2025-26": "https://drive.google.com/drive/folders/1a86ENn6WsaTpTYdbllAcrC33NC25AXI8"
       }
     }
   },
