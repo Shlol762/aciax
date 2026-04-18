@@ -727,6 +727,9 @@
       "Drive Links": {
         "2024-25 Sem 2": "https://drive.google.com/drive/folders/1MAmHceMPpQs26xJDJKD0fQU7ZkJFxPIW",
         "2024-25 Sem 1": "https://drive.google.com/drive/folders/1y5a7Z4Rej8AWpi7PbryZJC41Bj7sfzZ7"
+      },
+      "Chem F101 replaced this course in 2025": {
+        "Chem F101 - Fundamentals of Chemistry": "./chemf101"
       }
     },
     "chemf111": {
@@ -758,6 +761,36 @@
       "Drive Links": {
         "2024-25": "https://drive.google.com/drive/folders/10HlZJxvsoaKcah49MHxQThTgOwkEAVUX",
         "2023-24 By Atharva Pandit": "https://drive.google.com/drive/folders/1x9NE_X8DqTZk_tzlTOETOdTroqHL7WrD"
+      },
+      "Chem F101 replaced this course in 2025": {
+        "Chem F101 - Fundamentals of Chemistry": "./chemf101"
+      }
+    },
+    "chemf101": {
+      "Handouts": {
+        "2025-26": "https://drive.google.com/file/d/1XH-2YW2Y3vJUemdJdq14bthk2FvBxuUX/view"
+      },
+      "Books": {
+        "JD Lee Concise Inorganic Chemistry": "https://drive.google.com/file/d/1cR6E8WPR5KJhmGr4qnDq2q4g3_3PJCvV/view",
+        "Solomon Fryhle Organic Chemistry": "https://drive.google.com/file/d/1cVAdl3jO8LVLeNMMqDE55O8Z-hu406Mx/view",
+        "Elements of Physical Chemistry Atkins Intl Ed": "https://drive.google.com/file/d/1DwfeLDslItRfwkdC-dYaeouBinOMfS58/view",
+        "Atkins 5th Ed": "https://drive.google.com/file/d/1yanlflurijW6nHNcbd7U9clH14WqTbjK/",
+        "Atkins 5th Ed Solutions": "https://drive.google.com/file/d/1ZvefsOt_NOgqYRQErkF6QUCZ7Xc18Bl0/"
+      },
+      "Tutorials": {
+        "2025-26": "https://drive.google.com/drive/folders/1Rx8eFhnB80GvyyIv7wbUoiLNiNn3TfRr"
+      },
+      "Slides": {
+        "2025-26": "https://drive.google.com/drive/folders/1etymrFDnqU0MIPPWGTmMpltLKGgj1gMS"
+      },
+      "Midsemester Exam": {
+        "2025-26": "https://drive.google.com/file/d/1fo_X_VmmX5NCYYUtLKLw6K7FvCMEwxS-/view"
+      },
+      "Comprehensive Exam": {
+        "2025-26": "https://drive.google.com/file/d/17AlhbO17MDHBpsgx3q7yczEnoKsymPmk/view"
+      },
+      "Drive Links": {
+        "2025-26": "https://drive.google.com/drive/folders/1oUsW061ro9UyQNQhFCWxGPOLlQXEWF4k"
       }
     }
   },
